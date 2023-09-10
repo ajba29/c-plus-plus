@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  TurtleGraphics.cpp
+  Generating Code...
+C:\Users\arnoldjoseph.aguila\source\repos\Turtle\Source.cpp(59): error C4700: uninitialized local variable 'i' used

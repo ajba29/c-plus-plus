@@ -1,0 +1,6 @@
+﻿  TurtleGraphics.cpp
+C:\Users\arnoldjoseph.aguila\source\repos\CPlusPlusExercise-C7-2.1\TurtleGraphics.cpp(27,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\arnoldjoseph.aguila\source\repos\CPlusPlusExercise-C7-2.1\TurtleGraphics.cpp(34,13): warning C4553: '==': result of expression not used; did you intend '='?
+  CPluPlusExercise-C7-2.cpp
+  Generating Code...
+  TurtleGraphics.vcxproj -> C:\Users\arnoldjoseph.aguila\source\repos\CPlusPlusExercise-C7-2.1\x64\Debug\TurtleGraphics.exe

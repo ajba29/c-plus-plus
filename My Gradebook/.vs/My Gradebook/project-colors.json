@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1bbb445-bd4b-45e0-b53c-897ed410f462": {
+      "ProjectGuid": "d1bbb445-bd4b-45e0-b53c-897ed410f462",
+      "DisplayName": "My Gradebook",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,2 @@
+C:\Users\arnoldjoseph.aguila\source\repos\TurtleGraphics\x64\Debug\TurtleGraphics.exe
+C:\Users\arnoldjoseph.aguila\source\repos\CPlusPlusExercise-C7-2.1\x64\Debug\TurtleGraphics.exe

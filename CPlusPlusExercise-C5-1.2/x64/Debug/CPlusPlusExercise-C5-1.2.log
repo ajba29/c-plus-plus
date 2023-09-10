@@ -1,0 +1,5 @@
+﻿  Employee.cpp
+C:\Users\arnoldjoseph.aguila\source\repos\CPlusPlusExercise-C5-1.2\Employee.cpp(15,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\arnoldjoseph.aguila\source\repos\CPlusPlusExercise-C5-1.2\Employee.cpp(36,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\arnoldjoseph.aguila\source\repos\CPlusPlusExercise-C5-1.2\Employee.cpp(32): warning C4715: 'Employee::getHourlyWorkerWage': not all control paths return a value
+  CPlusPlusExercise-C5-1.2.vcxproj -> C:\Users\arnoldjoseph.aguila\source\repos\CPlusPlusExercise-C5-1.2\x64\Debug\CPlusPlusExercise-C5-1.2.exe
